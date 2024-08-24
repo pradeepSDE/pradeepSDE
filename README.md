@@ -1,4 +1,4 @@
-# Hi there, I'm Pradep Bisen! 👋
+# Hi there, I'm Pradeep Bisen! 👋
 
 🎓 Final Year Student at GEC Raipur <br>
 💻 MERN Stack Developer | Machine Learning Enthusiast <br>
