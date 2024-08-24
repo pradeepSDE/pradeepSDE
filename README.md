@@ -20,8 +20,10 @@ I'm passionate about building web applications using the MERN stack and diving i
 ---
 
 ### 🌟 Featured Projects
-- [Project Name 1](https://github.com/pradepbisen/ChatApp) — Brief description of your project.
-- [Project Name 2](https://github.com/pradepbisen/project2) — Another cool project.
+- [ChatApp](https://github.com/pradepbisen/ChatApp) —  Built a real-time chat application with Firebase for the backend and Realtime Database. The frontend was
+ developed using React and styled with Tailwind CSS for a modern, responsive design.
+- [Mern-auth](https://github.com/pradeepSDE/Mern-authentication) —  Developed a secure authentication system using Node.js, Express.js, and MongoDB, with bcrypt for password
+ hashing and JWT for session management. Hosted on Vercel for reliable deployment.
 
 ---
 
