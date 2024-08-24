@@ -26,17 +26,17 @@ I'm passionate about building web applications using the MERN stack and diving i
 ---
 
 ### ⚡ GitHub Stats
-![Pradep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradepbisen&show_icons=true&theme=radical)
+![Pradep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepSDE&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak
-![Pradep's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradepbisen&theme=radical)
+![Pradep's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradeepSDE&theme=radical)
 
 ---
 
 ### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradepbisen&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepSDE&layout=compact&theme=radical)
 
 ---
 
@@ -45,4 +45,4 @@ I'm passionate about building web applications using the MERN stack and diving i
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pradepbisen.pradepbisen)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pradeepSDE.pradeepSDE)
