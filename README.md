@@ -30,10 +30,13 @@ I'm passionate about building web applications using the MERN stack and diving i
 ### ⚡ GitHub Stats
 ![Pradep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepSDE&show_icons=true&theme=radical)
 
+
 ---
 
 ### 🔥 GitHub Streak
-![Pradep's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradeepSDE&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pradeepSDE&theme=nightowl&hide_border=false)<br/> 
+
 
 ---
 
