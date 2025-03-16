@@ -1,7 +1,7 @@
 # Hi there, I'm Pradeep Bisen! 👋
 
 🎓 Final Year Student at GEC Raipur <br>
-💻 React/React Native Developer | Machine Learning Enthusiast <br>
+💻 Backend Developer | Machine Learning Enthusiast | Express.js | MongoDB | Docker <br>
 🚀 Currently Learning and Exploring More in the Tech World
 
 I'm passionate about building web and mobile applications and diving into the world of machine learning. I love experimenting with new technologies and constantly pushing the limits of what's possible in the digital space.
@@ -14,8 +14,9 @@ I'm passionate about building web and mobile applications and diving into the wo
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
+![Python](https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat)
 
 ---
