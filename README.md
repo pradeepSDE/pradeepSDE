@@ -23,7 +23,7 @@ I'm passionate about building web and mobile applications and diving into the wo
 ---
 
 ### 🌟 Featured Projects
-- [NxtGen grocery](https://github.com/pradepbisen/NxtGen_grocery) —  A full-stack eCommerce grocery store built using the MERN stack (MongoDB, Express.js, React.js, Node.js), featuring user authentication, product management, cart functionality, secure checkout, and admin dashboard for seamless inventory control.
+- [NxtGen grocery](https://github.com/pradeepSDE/NxtGen_grocery) —  A full-stack eCommerce grocery store built using the MERN stack (MongoDB, Express.js, React.js, Node.js), featuring user authentication, product management, cart functionality, secure checkout, and admin dashboard for seamless inventory control.
 - [ChatApp](https://github.com/pradepbisen/ChatApp) —  Built a real-time chat application with Firebase for the backend and Realtime Database. The frontend was
  developed using React and styled with Tailwind CSS for a modern, responsive design.
 - [Mern-auth](https://github.com/pradeepSDE/Mern-authentication) —  Developed a secure authentication system using Node.js, Express.js, and MongoDB, with bcrypt for password
