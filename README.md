@@ -17,7 +17,7 @@ I'm passionate about building web and mobile applications and diving into the wo
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
 ![Python](https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=react_native&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-3776AB?style=flat&logo=react-native&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat)
 
 ---
